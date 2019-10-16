@@ -3,8 +3,8 @@ A smart headband to guide the visually impaired user via audio about the objects
 
 Technologies used: 
 
-OpenCV: for capturing real-time video, 
-YOLOv3: for object detection, 
-pyttsx: for converting text to speech.
+OpenCV: for capturing real-time video, <br>
+YOLOv3: for object detection, <br>
+pyttsx: for converting text to speech. <br>
 
 Language used: Python
