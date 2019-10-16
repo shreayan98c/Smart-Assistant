@@ -29,7 +29,7 @@ video = cv2.VideoCapture('http://192.168.1.2:4747/video/mjpegfeed?640x480')
 
 
 # Creating a CascadeClassifier
-face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+face_cascade = cv2.CascadeClassifier("models/haarcascade_frontalface_default.xml")
 # body_cascade = cv2.CascadeClassifier("haarcascade_fullbody.xml")
 # numberplate_cascade = cv2.CascadeClassifier("haarcascade_licence_plate_rus_16stages.xml")
 
